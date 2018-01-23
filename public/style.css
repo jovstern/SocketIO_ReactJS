@@ -1,0 +1,11 @@
+.connection-status {
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px; }
+  .connection-status.connected {
+    background: green; }
+  .connection-status.disconnected {
+    background: red; }
+
+/*# sourceMappingURL=style.css.map */
